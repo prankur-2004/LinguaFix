@@ -1,4 +1,4 @@
-#LinguaFix
+🧠 LinguaFix
 
 🚀 About the Project
 
@@ -21,11 +21,9 @@ It combines LanguageTool + spaCy NLP to analyze and enhance user input text.
 
 🧰 Tech Stack
 🐍 Python
-
 📦 language_tool_python
 🧠 spaCy
 📘 en_core_web_sm model
-
 📥 Installation
 1️⃣ Clone the repository
 git clone https://github.com/your-username/LinguaFix.git
