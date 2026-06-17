@@ -4,6 +4,8 @@
 
 LinguaFix is a Python-based text analysis tool that helps improve writing quality by performing intelligent language processing.
 
+
+
 It provides:
 
 ✍️ Grammar correction
@@ -15,6 +17,8 @@ It provides:
 📊 POS (Part-of-Speech) tagging using NLP
 
 It combines LanguageTool + spaCy NLP to analyze and enhance user input text.
+
+
 
 ⚙️ Features
 
@@ -28,6 +32,8 @@ It combines LanguageTool + spaCy NLP to analyze and enhance user input text.
 
 ✨ Beginner-friendly NLP project
 
+
+
 🧰 Tech Stack
 
 🐍 Python
@@ -38,25 +44,32 @@ It combines LanguageTool + spaCy NLP to analyze and enhance user input text.
 
 📘 en_core_web_sm model
 
+
 📥 Installation
+
 
 1️⃣ Clone the repository
 
 git clone https://github.com/your-username/LinguaFix.git
 cd LinguaFix
 
+
 2️⃣ Install dependencies
 
 pip install language-tool-python
 pip install spacy
 
+
 3️⃣ Download spaCy model
 
 python -m spacy download en_core_web_sm
 
+
 ▶️ How to Run
 
 python main.py
+
+
 
 
 ⚠️ Current Status
@@ -70,6 +83,8 @@ python main.py
 ⚠️ Some errors may occur during execution
 
 
+
+
 💡 Future Improvements
 🌐 Web interface (Flask / Streamlit)
 
@@ -79,15 +94,21 @@ python main.py
 
 📄 File upload support
 
+
+
 🤝 Contribution
 
 Contributions are welcome 🚀
 Feel free to improve the code and suggest new features.
 
 
+
+
 ⭐ Support
 
 If you like this project, consider giving it a ⭐ on GitHub.
+
+
 
 🧠 Final Note
 
