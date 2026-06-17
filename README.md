@@ -1,5 +1,6 @@
 # LinguaFix
 🧠 LinguaFix
+
 🚀 About the Project
 
 LinguaFix is a Python-based text analysis tool that helps in improving writing quality by performing:
