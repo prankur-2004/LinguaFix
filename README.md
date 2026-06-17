@@ -1,4 +1,4 @@
-🧠 LinguaFix
+#LinguaFix
 
 🚀 About the Project
 
